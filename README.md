@@ -128,6 +128,6 @@ For project questions and suggestions, please use the relevant repository's Issu
 ---
 
 <p align="center">
-  <b>小小工作台，慢慢添东西。</b><br />
+  <b>小小工作台，慢慢添东西</b><br />
   <sub>A little workbench, one useful thing at a time.</sub>
 </p>
