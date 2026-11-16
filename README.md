@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href="https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/"><img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/open-workbench.svg?v=compact-2" width="33%" alt="打开交互工作台 ↗" /></a>
+<a href="https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/"><img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/open-workbench.svg?v=compact-3" width="26%" alt="打开交互工作台 ↗" /></a>
 
 <sub>点击探索项目 · 筛选 · 日夜切换</sub>
 

@@ -2,5 +2,5 @@
 <title id="title">打开交互工作台</title>
 <rect x="1" y="1" width="418" height="82" rx="26" fill="#e5dff4" stroke="#d1c7e5" stroke-width="2"/>
 <circle cx="45" cy="31" r="12" fill="#f5dce2"/><circle cx="45" cy="53" r="12" fill="#dcecf5"/><circle cx="34" cy="42" r="12" fill="#d9eadc"/><circle cx="56" cy="42" r="12" fill="#f5dce2"/><circle cx="45" cy="42" r="7" fill="#fffefa"/>
-<text x="89" y="53" font-family="Microsoft YaHei,Arial,sans-serif" font-size="30" font-weight="bold" fill="#354452">打开交互工作台 ↗</text>
+<text x="102" y="51" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="500" fill="#354452">打开交互工作台 ↗</text>
 </svg>
