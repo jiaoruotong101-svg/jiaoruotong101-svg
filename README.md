@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**[打开马卡龙色交互工作台 ↗](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)**
+**[打开交互工作台 ↗](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)**
 
 点击桌面物件探索项目 · 分类筛选 · 日夜主题
 
