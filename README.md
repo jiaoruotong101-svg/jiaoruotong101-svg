@@ -9,11 +9,9 @@
 
 <div align="center">
 
-[![打开交互工作台：点击桌面物件探索项目，支持筛选与日夜切换](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/open-workbench.svg)](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)
+<a href="https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/"><img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/open-workbench.svg?v=compact-2" width="33%" alt="打开交互工作台 ↗" /></a>
 
-### [🌷 打开交互工作台 ↗](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)
-
-点击桌面物件探索项目 · 分类筛选 · 日夜主题
+<sub>点击探索项目 · 筛选 · 日夜切换</sub>
 
 **你好，我是 JDD。喵，欢迎来到我的小小工作台。**  
 Hi, I'm JDD. Welcome to my little workbench.
@@ -154,6 +152,15 @@ A local-first browser extension for keeping résumé information and reviewing f
 ## 04 / 还有一些小页面 · Other corners
 
 [diary](https://github.com/jiaoruotong101-svg/diary) 是一个以情绪记录为主题的 HTML / CSS / JavaScript 小项目。账号里也保留着其他网页尝试，放在[全部仓库](https://github.com/jiaoruotong101-svg?tab=repositories)里慢慢整理。
+
+## 🍬 贡献足迹 · Contribution snake
+
+一条小蛇，沿着我的 GitHub 贡献记录慢慢走。每天自动更新。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/snake-output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/snake-output/github-snake.svg" width="100%" alt="JDD 的马卡龙配色 GitHub 贡献贪吃蛇动画" />
+</picture>
 
 <a name="contact"></a>
 

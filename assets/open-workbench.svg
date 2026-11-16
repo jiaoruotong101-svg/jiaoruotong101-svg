@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190" role="img" aria-labelledby="title desc">
-<title id="title">打开交互工作台</title><desc id="desc">点击进入 JDD 的交互主页：探索桌面物件、筛选项目、切换日夜主题。</desc>
-<rect x="1" y="1" width="958" height="188" rx="24" fill="#e5dff4" stroke="#d1c7e5"/>
-<circle cx="68" cy="58" r="16" fill="#f5dce2"/><circle cx="68" cy="85" r="16" fill="#dcecf5"/><circle cx="55" cy="72" r="16" fill="#d9eadc"/><circle cx="82" cy="72" r="16" fill="#f5dce2"/><circle cx="68" cy="72" r="9" fill="#fffefa"/>
-<text x="110" y="84" font-family="Microsoft YaHei,Arial,sans-serif" font-size="36" font-weight="bold" fill="#354452">来工作台上，点一点。</text>
-<text x="110" y="127" font-family="Microsoft YaHei,Arial,sans-serif" font-size="22" fill="#4f5b70">探索项目 · 桌面互动 · 日夜切换</text>
-<rect x="650" y="61" width="258" height="68" rx="34" fill="#354452"/>
-<text x="779" y="104" text-anchor="middle" font-family="Microsoft YaHei,Arial,sans-serif" font-size="26" font-weight="bold" fill="#fbf8f3">打开交互主页 ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="84" viewBox="0 0 420 84" role="img" aria-labelledby="title">
+<title id="title">打开交互工作台</title>
+<rect x="1" y="1" width="418" height="82" rx="26" fill="#e5dff4" stroke="#d1c7e5" stroke-width="2"/>
+<circle cx="45" cy="31" r="12" fill="#f5dce2"/><circle cx="45" cy="53" r="12" fill="#dcecf5"/><circle cx="34" cy="42" r="12" fill="#d9eadc"/><circle cx="56" cy="42" r="12" fill="#f5dce2"/><circle cx="45" cy="42" r="7" fill="#fffefa"/>
+<text x="89" y="53" font-family="Microsoft YaHei,Arial,sans-serif" font-size="30" font-weight="bold" fill="#354452">打开交互工作台 ↗</text>
 </svg>
