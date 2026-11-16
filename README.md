@@ -2,8 +2,8 @@
 
 <a href="https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header-dark.svg" />
-  <img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header.svg" width="100%" alt="JDD · Little Workbench — Learn, connect, make" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header-dark.svg?v=pastel-1" />
+  <img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header.svg?v=pastel-1" width="100%" alt="JDD · Little Workbench — Learn, connect, make" />
 </picture>
 </a>
 
@@ -54,7 +54,7 @@ My public projects explore vocabulary learning, study companionship, and browser
 
 ### 🔗 LexGraph · 让查过的单词连成网
 
-[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/lexgraph.svg)](https://github.com/jiaoruotong101-svg/LexGraph)
+[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/lexgraph.svg?v=pastel-1)](https://github.com/jiaoruotong101-svg/LexGraph)
 
 [![Repository](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-repository.svg)](https://github.com/jiaoruotong101-svg/LexGraph)
 ![Edge Extension](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-edge-extension.svg)
@@ -78,7 +78,7 @@ An Edge extension that turns word lookups into a vocabulary library, with tags, 
 
 ### 🌱 学习小岛 · Study Island
 
-[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/study-island.svg)](https://github.com/jiaoruotong101-svg/study-island)
+[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/study-island.svg?v=pastel-1)](https://github.com/jiaoruotong101-svg/study-island)
 
 [![Repository](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-repository.svg)](https://github.com/jiaoruotong101-svg/study-island)
 ![Study Companion](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-study-companion.svg)
@@ -103,7 +103,7 @@ A study companion bringing together daily tasks, focus sessions, mistake notes, 
 
 ### 📄 求职 Copilot · 少一点重复录入
 
-[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/resume-copilot.svg)](https://github.com/jiaoruotong101-svg/resume-copilot)
+[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/resume-copilot.svg?v=pastel-1)](https://github.com/jiaoruotong101-svg/resume-copilot)
 
 [![Repository](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-repository.svg)](https://github.com/jiaoruotong101-svg/resume-copilot)
 ![Local First](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-local-first.svg)
