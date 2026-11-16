@@ -1,6 +1,9 @@
-<p align="center">
+<a name="top"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header-dark.svg" />
   <img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header.svg" width="100%" alt="JDD · Little Workbench — Learn, connect, make" />
-</p>
+</picture>
 
 <div align="center">
 
@@ -10,9 +13,7 @@ Hi, I'm JDD. Welcome to my little workbench.
 把查过的词留下来，把学习的日子记下来，把重复的事情做简单一点。  
 Remember the words. Make room for learning. Simplify the repetitive bits.
 
-![Browser Extensions](https://img.shields.io/badge/Browser_Extensions-537D91?style=flat)
-![Learning Tools](https://img.shields.io/badge/Learning_Tools-7B8F71?style=flat)
-![Everyday Web Apps](https://img.shields.io/badge/Everyday_Web_Apps-B88973?style=flat)
+**Browser extensions　/　Learning tools　/　Everyday web apps**
 
 [关于我 · About](#about) · [项目 · Projects](#projects) · [工具箱 · Toolbox](#toolbox) · [联系 · Contact](#contact)
 
@@ -20,7 +21,7 @@ Remember the words. Make room for learning. Simplify the repetitive bits.
 
 ---
 
-<a id="about"></a>
+<a name="about"></a>
 
 ## 01 / 从日常问题开始 · About
 
@@ -28,13 +29,24 @@ Remember the words. Make room for learning. Simplify the repetitive bits.
 
 它们从很具体的需求出发：查过的词能不能串起来复习？学习时能不能多一点陪伴？同一份简历能不能少填几遍？这个主页用来整理这些尝试，也保留它们还没做完的部分。
 
+<details>
+<summary>About this workbench · English</summary>
+
 My public projects explore vocabulary learning, study companionship, and browser form assistance. Each starts with a small, everyday question; this page collects the work and its open ends.
 
-<a id="projects"></a>
+</details>
 
-## 02 / 正在工作台上 · Selected projects
+<a name="projects"></a>
+
+## 02 / 选一个项目逛逛 · Selected projects
+
+[记住查过的词 ↓](#lexgraph)　 ·　 [给学习留一点陪伴 ↓](#study-island)　 ·　 [少填几遍简历 ↓](#resume-copilot)
+
+<a name="lexgraph"></a>
 
 ### 🔗 LexGraph · 让查过的单词连成网
+
+[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/lexgraph.svg)](https://github.com/jiaoruotong101-svg/LexGraph)
 
 [![Repository](https://img.shields.io/badge/VIEW-LexGraph-537D91?style=flat&logo=github&labelColor=303C46)](https://github.com/jiaoruotong101-svg/LexGraph)
 ![Edge Extension](https://img.shields.io/badge/Edge-Manifest_V3-7B8F71?style=flat)
@@ -54,7 +66,11 @@ An Edge extension that turns word lookups into a vocabulary library, with tags, 
 
 </details>
 
+<a name="study-island"></a>
+
 ### 🌱 学习小岛 · Study Island
+
+[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/study-island.svg)](https://github.com/jiaoruotong101-svg/study-island)
 
 [![Repository](https://img.shields.io/badge/VIEW-study--island-7B8F71?style=flat&logo=github&labelColor=303C46)](https://github.com/jiaoruotong101-svg/study-island)
 ![Study Companion](https://img.shields.io/badge/Study-Companion-B88973?style=flat)
@@ -75,7 +91,11 @@ A study companion bringing together daily tasks, focus sessions, mistake notes, 
 
 </details>
 
+<a name="resume-copilot"></a>
+
 ### 📄 求职 Copilot · 少一点重复录入
+
+[![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/resume-copilot.svg)](https://github.com/jiaoruotong101-svg/resume-copilot)
 
 [![Repository](https://img.shields.io/badge/VIEW-resume--copilot-B88973?style=flat&logo=github&labelColor=303C46)](https://github.com/jiaoruotong101-svg/resume-copilot)
 ![Local First](https://img.shields.io/badge/Local_First-537D91?style=flat)
@@ -86,11 +106,22 @@ A local-first browser extension for keeping résumé information and reviewing f
 
 `React` · `TypeScript` · `Manifest V3` · `chrome.storage.local`
 
-> 仍在完善：已在模拟表单上验证，真实登录后的招聘表单适配仍待核验；自定义下拉和日期等控件需要人工处理。最终提交由用户完成。
+> **当前状态：** 已在模拟表单上验证，真实登录后的招聘表单适配仍待核验。最终提交由用户完成。
+
+<details>
+<summary>展开：填写流程与当前边界 / Workflow and limits</summary>
+
+维护简历内容库 → 扫描页面 → 核对匹配结果 → 填写已匹配字段 → 人工检查与提交。
+
+自定义下拉和日期等控件仍需人工处理，不能承诺真实招聘页面的完整适配。
+
+</details>
 
 ---
 
-<a id="toolbox"></a>
+<sub>项目配图为功能流程示意，不是应用界面截图。</sub>
+
+<a name="toolbox"></a>
 
 ## 03 / 项目里用到的工具 · Toolbox
 
@@ -116,13 +147,15 @@ A local-first browser extension for keeping résumé information and reviewing f
 
 [diary](https://github.com/jiaoruotong101-svg/diary) 是一个以情绪记录为主题的 HTML / CSS / JavaScript 小项目。账号里也保留着其他网页尝试，放在[全部仓库](https://github.com/jiaoruotong101-svg?tab=repositories)里慢慢整理。
 
-<a id="contact"></a>
+<a name="contact"></a>
 
 ## 05 / 找到我 · Contact
 
 [GitHub · jiaoruotong101-svg](https://github.com/jiaoruotong101-svg) · [Email](mailto:jiaoruotong101@gmail.com)
 
-项目的问题和建议，欢迎在对应仓库的 Issues 中交流。  
+项目的问题和建议，欢迎在对应仓库的 Issues 中交流。
+
+[浏览全部项目 ↗](https://github.com/jiaoruotong101-svg?tab=repositories)　 ·　 [回到顶部 ↑](#top)  
 For project questions and suggestions, please use the relevant repository's Issues.
 
 ---
