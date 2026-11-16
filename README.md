@@ -11,8 +11,6 @@
 
 <a href="https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/"><img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/open-workbench.svg?v=compact-3" width="26%" alt="打开交互工作台 ↗" /></a>
 
-<sub>点击探索项目 · 筛选 · 日夜切换</sub>
-
 **你好，我是 JDD。喵，欢迎来到我的小小工作台。**  
 Hi, I'm JDD. Welcome to my little workbench.
 
