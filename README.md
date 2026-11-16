@@ -1,13 +1,17 @@
 <a name="top"></a>
 
+<a href="https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header-dark.svg" />
   <img src="https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/header.svg" width="100%" alt="JDD · Little Workbench — Learn, connect, make" />
 </picture>
+</a>
 
 <div align="center">
 
-**[打开交互工作台 ↗](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)**
+[![打开交互工作台：点击桌面物件探索项目，支持筛选与日夜切换](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/open-workbench.svg)](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)
+
+### [🌷 打开交互工作台 ↗](https://jiaoruotong101-svg.github.io/jiaoruotong101-svg/)
 
 点击桌面物件探索项目 · 分类筛选 · 日夜主题
 
@@ -52,8 +56,8 @@ My public projects explore vocabulary learning, study companionship, and browser
 
 [![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/lexgraph.svg)](https://github.com/jiaoruotong101-svg/LexGraph)
 
-[![Repository](https://img.shields.io/badge/VIEW-LexGraph-537D91?style=flat&logo=github&labelColor=303C46)](https://github.com/jiaoruotong101-svg/LexGraph)
-![Edge Extension](https://img.shields.io/badge/Edge-Manifest_V3-7B8F71?style=flat)
+[![Repository](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-repository.svg)](https://github.com/jiaoruotong101-svg/LexGraph)
+![Edge Extension](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-edge-extension.svg)
 
 在 Edge 中捕获搜索或选中的英文单词，整理释义、分类和标签，再通过 **SM-2 间隔复习**与**知识图谱**把零散记录串起来。
 
@@ -76,8 +80,8 @@ An Edge extension that turns word lookups into a vocabulary library, with tags, 
 
 [![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/study-island.svg)](https://github.com/jiaoruotong101-svg/study-island)
 
-[![Repository](https://img.shields.io/badge/VIEW-study--island-7B8F71?style=flat&logo=github&labelColor=303C46)](https://github.com/jiaoruotong101-svg/study-island)
-![Study Companion](https://img.shields.io/badge/Study-Companion-B88973?style=flat)
+[![Repository](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-repository.svg)](https://github.com/jiaoruotong101-svg/study-island)
+![Study Companion](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-study-companion.svg)
 
 一个以陪伴为出发点的学习应用：把**今日任务、番茄钟、错题记录、心情和留言**放在一起，也为彼此交流留出位置。
 
@@ -101,8 +105,8 @@ A study companion bringing together daily tasks, focus sessions, mistake notes, 
 
 [![功能流程示意，点击查看项目](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/resume-copilot.svg)](https://github.com/jiaoruotong101-svg/resume-copilot)
 
-[![Repository](https://img.shields.io/badge/VIEW-resume--copilot-B88973?style=flat&logo=github&labelColor=303C46)](https://github.com/jiaoruotong101-svg/resume-copilot)
-![Local First](https://img.shields.io/badge/Local_First-537D91?style=flat)
+[![Repository](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-repository.svg)](https://github.com/jiaoruotong101-svg/resume-copilot)
+![Local First](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-local-first.svg)
 
 一个本地优先的 Chrome / Edge 扩展：维护简历内容库，扫描招聘页面，**预览匹配结果后再填写**。目前针对华为招聘页面开发，采用本地规则匹配，不依赖远程大模型。
 
@@ -129,14 +133,14 @@ A local-first browser extension for keeping résumé information and reviewing f
 
 ## 03 / 项目里用到的工具 · Toolbox
 
-![TypeScript](https://img.shields.io/badge/TypeScript-537D91?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-B88973?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-537D91?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-303C46?style=flat&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-AC7665?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-7B8F71?style=flat&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-537D91?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-9183A6?style=flat&logo=vite&logoColor=white)
+![TypeScript](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-typescript.svg)
+![JavaScript](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-javascript.svg)
+![React](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-react.svg)
+![Next.js](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-next-js.svg)
+![HTML](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-html.svg)
+![CSS](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-css.svg)
+![Tailwind CSS](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-tailwind-css.svg)
+![Vite](https://raw.githubusercontent.com/jiaoruotong101-svg/jiaoruotong101-svg/main/assets/badge-vite.svg)
 
 | 用途 | 现有项目中的实践 |
 | --- | --- |

@@ -2,20 +2,20 @@
 <title id="title">JDD · Little Workbench</title>
 <desc id="desc">A quiet blue and cream workbench with a notebook, connected vocabulary nodes, and a small plant.</desc>
 <defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#dce4e5" stroke-width="1"/></pattern></defs>
-<rect width="1200" height="320" rx="18" fill="#f5f2eb"/>
+<rect width="1200" height="320" rx="18" fill="#fbf8f3"/>
 <rect x="700" width="500" height="320" fill="url(#grid)"/>
-<path d="M700 0H1182Q1200 0 1200 18V302Q1200 320 1182 320H700Z" fill="#eaf0ef" opacity=".35"/>
-<text x="64" y="64" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#537d91">LEARN / CONNECT / MAKE</text>
-<text x="60" y="148" font-family="Georgia,serif" font-size="76" fill="#303c46">JDD</text>
-<text x="64" y="202" font-family="Georgia,serif" font-size="34" fill="#537d91">Little Workbench</text>
-<path d="M64 228H124" stroke="#b88973" stroke-width="3"/>
+<path d="M700 0H1182Q1200 0 1200 18V302Q1200 320 1182 320H700Z" fill="#dcecf5" opacity=".35"/>
+<text x="64" y="64" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#536b86">LEARN / CONNECT / MAKE</text>
+<text x="60" y="148" font-family="Georgia,serif" font-size="76" fill="#354452">JDD</text>
+<text x="64" y="202" font-family="Georgia,serif" font-size="34" fill="#536b86">Little Workbench</text>
+<path d="M64 228H124" stroke="#f5dce2" stroke-width="3"/>
 <text x="64" y="268" font-family="Arial,sans-serif" font-size="17" fill="#667680">Small tools for everyday questions.</text>
 <path d="M758 257H1128" stroke="#a8b9b8" stroke-width="3" stroke-linecap="round"/>
-<rect x="793" y="122" width="141" height="134" rx="8" fill="#fffdfa" stroke="#a8b9b8" stroke-width="2" transform="rotate(-7 863 189)"/>
+<rect x="793" y="122" width="141" height="134" rx="8" fill="#fffefa" stroke="#a8b9b8" stroke-width="2" transform="rotate(-7 863 189)"/>
 <path d="M819 158L896 149M823 179L899 170M826 200L880 194" stroke="#b9c9cd" stroke-width="4" stroke-linecap="round"/>
 <path d="M952 85L1037 121L1092 66M1037 121L1083 177" fill="none" stroke="#9eb8c1" stroke-width="2"/>
-<circle cx="952" cy="85" r="12" fill="#537d91"/><circle cx="1037" cy="121" r="17" fill="#7b8f71"/><circle cx="1092" cy="66" r="9" fill="#b88973"/><circle cx="1083" cy="177" r="10" fill="#9183a6"/>
-<path d="M996 223H1040L1033 256H1003Z" fill="#b88973"/>
-<path d="M1018 225V184" stroke="#7b8f71" stroke-width="3"/>
-<path d="M1018 211Q984 210 990 185Q1018 185 1018 211M1018 200Q1049 198 1044 174Q1018 175 1018 200" fill="#7b8f71"/>
+<circle cx="952" cy="85" r="12" fill="#536b86"/><circle cx="1037" cy="121" r="17" fill="#a9c8b0"/><circle cx="1092" cy="66" r="9" fill="#f5dce2"/><circle cx="1083" cy="177" r="10" fill="#c9bee4"/>
+<path d="M996 223H1040L1033 256H1003Z" fill="#f5dce2"/>
+<path d="M1018 225V184" stroke="#a9c8b0" stroke-width="3"/>
+<path d="M1018 211Q984 210 990 185Q1018 185 1018 211M1018 200Q1049 198 1044 174Q1018 175 1018 200" fill="#a9c8b0"/>
 </svg>
